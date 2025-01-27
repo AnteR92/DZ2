@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Zbroj broja " + x + " i " + y + " je: " + (x + y));
 
-        System.out.print("\t\nAnte Ravnjak\t\n\nOsijek\t\n");  // dodano prije imena da odvojimo Ime i Prezime od zbroja
+        System.out.print("\n\tAnte Ravnjak\n\n\tOsijek\n\t");  // dodano prije imena da odvojimo Ime i Prezime od zbroja
 
         // Postavljamo vrijednost kateta a i b
         double a = 20;
